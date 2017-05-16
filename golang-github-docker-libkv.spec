@@ -4,7 +4,7 @@
 #
 Name     : golang-github-docker-libkv
 Version  : 7283ef27ed32fe267388510a91709b307bb9942c
-Release  : 3
+Release  : 4
 URL      : https://github.com/docker/libkv/archive/7283ef27ed32fe267388510a91709b307bb9942c.tar.gz
 Source0  : https://github.com/docker/libkv/archive/7283ef27ed32fe267388510a91709b307bb9942c.tar.gz
 Summary  : No detailed summary available
